@@ -2,6 +2,8 @@
 
 ### Github Repo : https://github.com/zugzw4ng/Chessmate
 
+### Deployed : https://mighty-ravine-90150.herokuapp.com/
+
 ## Description 
 
 Our team has created a full-stack MERN application that provides the user with a rounded and interactive chess learning experience. 
